@@ -1,1 +1,1 @@
-# SER205_Final_Project_AfruzbekUsarov
+# CSE205_Final_Project_AfruzbekUsarov
